@@ -1,4 +1,4 @@
-## Hi there 👋
+# <p align="center" >{\color{#1a3787}"Am \space in \space a$$ $${\color{#421a87}illusion?" $$
 
 <!--
 **ETHEREALGARDEN/ETHEREALGARDEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

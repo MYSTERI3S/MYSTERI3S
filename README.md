@@ -1,4 +1,4 @@
-# <p align="center" >{\color{#1a3787}"Am \space in \space a$$ $${\color{#421a87}illusion?" $$
+## <p align="center">$${\color{#1a3787}<sup>"Am \space I \space living \space in \space a \space illusion?"} $$ </p>
 
 <!--
 **ETHEREALGARDEN/ETHEREALGARDEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

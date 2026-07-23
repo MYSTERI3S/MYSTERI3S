@@ -1,4 +1,4 @@
-## <p align="center">$${\color{#1a3787}<sup>"Am \space I \space living \space in \space a \space illusion?"} $$ </p>
+## <p align="center">$${\color{#4900b0}<sup>"Am \space I \space living \space in \space a \space illusion?"} $$ </p>
 ![Alternative descriptive text](Untitled122_20260723172537.png)
 
 <!--

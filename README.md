@@ -1,5 +1,4 @@
-## <p align="center"> ![image]()
-$${\color{#303AD7}<sup>"Am \space I \space living \space in \space a \space illusion?"} $$ </p>
+## <p align="center"> <img src="Untitled136_20260829113849.png" width="30" /> ![VISITORS.ᐟ.ᐟ](https://komarev.com/ghpvc/?username=MYSTERI3S) <img src="Untitled136_20260829113849.png" width="30" /> </p>
 ![Alternative descriptive text](Untitled122_20260723172537.png)
 ㅤㅤㅤㅤ [Atabook](https://deathl0ck.atabook.org )ㅤㅤㅤ[StrawPage](https://mysteri3s.straw.page)
 <!--

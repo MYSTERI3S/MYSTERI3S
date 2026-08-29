@@ -1,5 +1,5 @@
-#  <p align="center"> <img src="Untitled136_20260829113849.png" width="50" /> <img src="https://camo.githubusercontent.com/f0a75b5c366ab33370452b4b6523d13d5e8d680cd49b67984264bb330df39ea8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d5953544552493353" width="200px" />
- <img src="Untitled136_20260829113849.png" width="50" /> </p>
+#  <p align="center"> <img src="Untitled136_20260829113849.png" width="80" /> <img src="https://camo.githubusercontent.com/f0a75b5c366ab33370452b4b6523d13d5e8d680cd49b67984264bb330df39ea8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d5953544552493353" width="200px" />
+ <img src="Untitled136_20260829113849.png" width="80" /> </p>
 ![Alternative descriptive text](Untitled136_20260828193347.png) 
  ## <p align="center"> [Atabook](https://deathl0ck.atabook.org)ㅤㅤㅤ[StrawPage](https://mysteri3s.straw.page)
 <!--

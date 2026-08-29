@@ -1,4 +1,4 @@
-## <p align="center">$${\color{#303AD7}<sup>"Am \space I \space living \space in \space a \space illusion?"} $$ </p>
+## src="YOUR_IMAGE_URL<p align="center"> $${\color{#303AD7}<sup>"Am \space I \space living \space in \space a \space illusion?"} $$ </p>
 ![Alternative descriptive text](Untitled122_20260723172537.png)
 ㅤㅤㅤㅤ [Atabook](https://deathl0ck.atabook.org ).
 <!--

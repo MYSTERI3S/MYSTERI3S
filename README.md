@@ -1,6 +1,6 @@
 ##  <p align="center"> <img src="Untitled136_20260829113849.png" width="30" /> ![&label=LOVELY+VISITORS.ᐟ](https://komarev.com/ghpvc/?username=MYSTERI3S) <img src="Untitled136_20260829113849.png" width="30" /> </p>
 ![Alternative descriptive text](Untitled136_20260828193347.png) 
- ## [Atabook](https://deathl0ck.atabook.org)ㅤㅤㅤ[StrawPage](https://mysteri3s.straw.page)
+ ## <p align="center"> [Atabook](https://deathl0ck.atabook.org)ㅤㅤㅤ[StrawPage](https://mysteri3s.straw.page)
 <!--
 **ETHEREALGARDEN/ETHEREALGARDEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
